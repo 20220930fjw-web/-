@@ -1,0 +1,25 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\EDY\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\69fd4f667a98520eb1922482"
+publishOrigin = "default"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
